@@ -465,6 +465,9 @@ input[type="checkbox"] {
     border: 1px solid #222;
 }
 
+.button-form {
+    width: 100%;
+}
 
 /* 03. Useful classes */
 
